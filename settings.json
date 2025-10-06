@@ -1,0 +1,30 @@
+{
+    "owner": "983035286692970506",
+    "oficecolor": {
+        "main": "#00FF00",
+        "blue": "#0076af",
+        "red": "#F53A27",
+        "green": "#55F43F",
+        "yellow": "#F1E635"
+    },
+    "automod": {
+        "autorole": ""
+    },
+    "SystemProtect": false,
+    "guildID": "1313300524468273182",
+    "admrole": "1316417353474375761",
+    "staffrole": "1325250142512611338",
+    "costumeRrole": "1325250142512611338",
+    "rolemember": "1325250199605608492",
+    "logsticketChannel": "",
+    "logsbemvindu": "",
+    "logsaidas": "",
+    "logsBan": "",
+    "logsCastigo": "",
+    "logsBlacklist": "",
+    "logsGerais": "",
+    "logsVendasADM": "",
+    "logsVendasPUB": "",
+    "VendasFeedback": "",
+    "TokenMP": ""
+}
